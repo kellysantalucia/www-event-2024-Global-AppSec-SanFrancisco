@@ -1,0 +1,232 @@
+- Type: Training
+  Trainers: 
+    - Name: John Poulin
+      Email: john.m.poulin@gmail.com
+      Image: /assets/images/trainers/JohnPoulin.jpg
+      Twitter: forced-request
+      Biography: >-
+          John Poulin is an experienced Application Security Practitioner with over 10 years of experience in software development and security. Over his tenure, John has worked with many Fortune 500 companies and startups alike to perform secure code review, architecture, and design discussions, as well as threat modeling.Currently, as a Staff manager of Product Security Engineering at GitHub, John and his team focus on performing secure code review of features and services, performing threat modeling, and overall helping to ensure that our software ecosystem is moving towards security maturity. John has given talks or training at many industry conferences, such as DEF CON, LASCON, DevSecCon, CactusCon, Source, as well as various Ruby and OWASP events about practical Application Security. 
+      TrainerId: trainer001
+      #-Name: Trainer Dos
+      #Email: tainer.dos@owasp.org
+      #Image: /assets/images/trainers/staff_harold.jpg
+      #Twitter: Trainer_Dos
+      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 25 years of
+      #  experience. He works in the field of cybersecurity, cybersecurity research,
+      #  and threat intelligence.
+      #TrainerId: trainer_dos
+  Title: Defense-in-depth engineering (1-day training course 9am-5pm November 16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      The 2021 OWASP Top Ten introduced a category “Insecure Design” to focus on risks related to design flaws. In this training, we will focus on building defense-in-depth software. What can we do to proactively architect software to be more resilient to attacks? What type of findings may not be discovered via automated static analysis? How can we design our software to be more friendly during incident response scenarios?
+
+      This one-day training is perfect for engineers as well as security practitioners that have some familiarity with the OWASP top 10. During this training, we will focus on identifying often-overlooked architectural anti-patterns and vulnerabilities to be on the lookout for. We will utilize source code review to analyze patterns for improvement in both real-world applications as well as intentionally vulnerable applications. Every interactive exercise will involve discovering concerns and writing code to engineer solutions. The course will wrap up with real-world vulnerability analysis of open-source software with an effort to help provide more secure architectural recommendations for these projects.
+
+
+      Engineers will leave this training with a solid understanding of defense-in-depth software architecture and design. Security engineers or consultants can expect to leave with an increased understanding of insecure design patterns and vulnerabilities.<br>   
+- Type: Training
+  Trainers: 
+    - Name: Matt Tesauro
+      Email: matt.tesauro@owasp.org
+      Image: /assets/images/trainers/matttesauroheadshotsmall.png
+      Twitter: matt_tesauro
+      Biography: Matt Tesauro is a DevSecOps and AppSec guru with specialization in creating security programs, leveraging automation to maximize team velocity and training emerging and senior professionals. When not writing automation code in Go, Matt is pushing for DevSecOps everywhere via his involvement in open-source projects, presentations, trainings and new technology innovation. As a versatile engineer, Matt’s background spans software development (primarily web development), Linux system administration, penetration testing and application / cloud security. He thrives on tackling technical problems, but his economics background gives him a unique understanding of business constraints and incentives around security initiatives. Currently, as a Distinguished Engineer at Noname Security, Matt is evangelizing Noname’s ground-breaking API security platform and API security in general. Previously, he rolled out AppSec automation at USAA and founded 10Security. Early in his career, Matt served as Director of Community and Operations at the OWASP Foundation, Senior AppSec Engineer at Duo Security, Senior Software Security Engineer at Pearson and Senior Product Security Engineer at Rackspace. 
+      TrainerId: trainer002
+  Title: Doing DevSecOps with OWASP Projects (2-day training course 9am-5pm November 15-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      You're tasked with 'doing AppSec' for your company and you've got more apps and issues than you know how to deal with.  This training course will help you make sense of the chaos and all with open source projects from OWASP at DevSecOps speeds.  This two-day hands-on course consists of a series of lectures and corresponding labs which demonstrate practical use of OWASP projects based on past use in real AppSec teams.  Knowing that AppSec team size is usually the most critical constraint, the training will cover how to automate the repetitive things allowing you to spend time on things that require the human brain.  Be prepared to return to your company with a whole new arsenal of tools and techniques to make your AppSec efforts more successful by adding automation and OWASP projects running at the speed of DevSecOps.  With over 20+ years of experience, the trainer provides pragmatic and well-tested advice on being successful rather than theoretical 'best practices'.<br>   
+- Type: Training
+  Trainers:
+    - Name: John DiLeo
+      Email: john.dileo@owasp.org
+      Image: /assets/images/trainers/JohnDiLeo.jpeg
+      Twitter: gr4ybeard
+      Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He is currently leading Datacom's Application Security Services team, providing support and guidance to clients, in Australia and New Zealand, in launching, managing, and maturing their enterprise software assurance programs. Before he started 'doing AppSec' full-time, John was active as a Java enterprise architect and Web application developer. In an earlier life, John had specialized in developing discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is a member of the OWASP Education and Training Committee.
+      TrainerID: trainer003
+  Title: >-
+    OWASP SAMM Master Class (2-day training course 9am-5pm November 15-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      OWASP SAMM Master Class
+
+      This two-day class presents an advanced, in-depth review of the SAMM model and its use within an organization. Many class topic covered will match those in our one-day SAMM Overview class - all topics will be covered in greater detail, with several advanced topics added.
+
+      We'll discuss approaches to conducting assessments; establishing and managing an enterprise-wide assessment program; and training others to conduct assessments.
+
+      While it would be helpful for training attendees to have prior experience with SAMM, it's not required.
+      <br>
+      <strong>Topic Outline:</strong>
+      <ul>
+      <li>Motivation and Background of the SAMM Project</li>
+      <li>SAMM Assessment Methodology</li>
+      <li>Assessing Governance Practices</li>
+      <li>Assessing Design Practices</li>
+      <li>Assessing Implementation Practices</li>
+      <li>Assessing Verification Practices</li>
+      <li>Assessing Operations Practices</li>
+      <li>Setting Improvement Targets and Milestones</li>
+      <li>Building an Improvement Roadmap</li>
+      <li>SAMM Tools</li>
+      <li>Building an Internal SAMM Assessment Program</li>
+      <li>Training SAMM Assessors</li>
+      <li>SAMM Benchmarking Project</li>
+      <li>SAMM Best Practices</li>
+      <li>Related OWASP Projects and Resources</li>
+      </ul>
+- Type: Training
+  Trainers:
+    - Name: Konstantinos Papapanagiotou
+      Email: kpapapan@styxcyber.com
+      Image: /assets/images/trainers/Konstantinos.jpeg
+      Twitter: kpapapan
+      Biography: Dr Kostas (Konstantinos) Papapanagiotou is a cyber security consultant that helps organizations around the world improve their security posture. He has more than 20 years of experience in the field of cyber security both as a corporate consultant and as a researcher. Over those years he has led numerous projects ranging from penetration tests to the implementation of complex corporate security, compliance and data loss prevention solutions. He is passionate about teaching and has delivered courses to hundreds of students, security professionals and developers.  He has been involved in OWASP since 2004, leading the OWASP Greek Chapter and several educational initiatives. He is an Adjunct Lecturer at the Hellenic-American University in the field of Cyber Security. He holds a PhD and BSc in Cyber Security from the University of Athens and an MSc in Information Security with distinction from Royal Holloway.
+      TrainerID: trainer004
+  Title: Securing your applications in AWS & Azure (2-day training course 9am-5pm November 15-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      This training provides a thorough introduction to cloud security, covering both AWS and Azure. During the first day, we will go through all you need to know in order to develop and deploy secure applications in AWS. We will present how you can build a secure cloud infrastructure in AWS. You will learn how to use AWS Identity and Access Management in order to manage your users and control access to your resources and data. We will demonstrate how to use AWS-specific tools and features to ensure your application's production data is adequately protected and monitored. By the end of the first day, you should understand how to set up a basic hardened AWS infrastructure capable of deploying a production web application.  During the second day, we will focus on how to build and deploy secure software on the Microsoft Azure cloud platform. You will learn common Azure terminology and the basic components of a secure application architecture in Azure. We will explain how identity and access management work in Azure and how you can leverage Microsoft Identity Platform to manage your users. You will understand how to use Azure-specific features to ensure your application's production data is adequately protected and monitored. By the end of the course, you should understand how to set up a secure infrastructure using Azure, capable of deploying cloud-native web applications and services. 
+- Type: Training
+  Trainers:
+    - Name: Josh Grossman
+      Email: josh@bouncesecurity.com
+      Image: /assets/images/trainers/josh_grossman_headshot.jpeg
+      Twitter: JoshCGrossman
+      Biography: >- 
+        Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organizations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
+      TrainerId: trainer006
+  Title: Building a High-Value AppSec Scanning Programme (2-day training course 9am-5pm November 15-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+       You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
+
+        If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
+        <ul>
+        <li>What to expect from these tools?</li>
+        <li>Customizing and optimizing these tools effectively</li>
+        <li>Building tool processes which fit your business</li>
+        <li>Automating workflows using CI/CD without slowing it down.</li>
+        <li>Showing the value and improvements you are making</li>
+        <li>Faster and easier triage through smart filtering</li>
+        <li>How to focus on fixing what matters and cut down noise</li>
+        <li>Techniques for various alternative forms of remediation</li>
+        <li>Building similar processes for penetration testing activities.</li>
+        <li>Comparison of the different tool types covered.</li>
+        </ul>
+        To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.
+        
+        For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.
+        
+        Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
+- Type: Training
+  Trainers:
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/trainers/AbrahamAranguren.jpeg
+      Twitter: 7asecurity
+      Biography: >-
+        After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
+      TrainerId: trainer007
+  Title: Hacking Modern Web & Desktop Apps (3-day training course 9am-5pm November 14-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
+
+      Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.
+
+      Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.
+
+      All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.
+- Type: Training
+  Trainers:
+    - Name: Fabio Cerullo
+      Email: fcerullo@cycubix.com
+      Image: /assets/images/trainers/Fabio.jpeg
+      Twitter: fcerullo
+      Biography: >-
+        Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: <quote>Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry.</quote>
+
+        Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. He is also an AWS authorized instructor covering architecting and security topics. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA, the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)² and the AWS Certified Solution Architect certification.
+      TrainerId: trainer008
+  Title: Web Application Security Essentials (3-day training course 9am-5pm November 14-16)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+        This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
+
+        The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
+        <br>
+        The topics covered include:
+        <ul>
+        <li>Introduction to Web Application Security</li>
+        <li>Technologies used in Web Applications</li>
+        <li>The Security Tester Toolkit</li>
+        <li>Critical Areas in Web Applications</li>
+        <li>Broken Access Control</li>
+        <li>Cryptographic Failures</li>
+        <li>Injection</li>
+        <li>Insecure Design</li>
+        <li>Security Misconfiguration</li>
+        <li>Vulnerable and Outdated Components</li>
+        <li>Identification and Authentication Failures</li>
+        <li>Software and Data Integrity Failures</li>
+        <li>Security Logging and Monitoring Failures</li>
+        <li>Server Side Request Forgery (SSRF)</li>
+        </ul>
+        Format: The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.     
+- Type: Training
+  Trainers:
+    - Name: Sebastien Deleersnyder
+      Email: seba@toreon.com
+      Image: /assets/images/trainers/sebastien_deleersnyder__portrait.png
+      Twitter: sebadele
+      Biography: >-
+        Sebastien (Seba) Deleersnyder is co-founder and CTO of Toreon. He started the Belgian OWASP chapter and was an OWASP Foundation Board member. With a development background and years of security experience, he has trained countless developers to create more secure software. Leading OWASP projects such as OWASP SAMM, he has genuinely helped make the world a safer place. What’s he currently up to? Right now, he’s busy adapting application security models to the evolving field of DevOps and is also focused on getting the word out on Threat Modeling to a broader audience.
+      TrainerId: trainer009
+  Title: Whiteboard hacking – aka hands-on Threat Modeling
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >- 
+        The threat modeling training based on real life hands-on practical threat modeling, and delivered every year at OWASP since 2016, and Black Hat since 2017. Our latest Black Hat training score was 4.7/5 with great feedback!.
+        <br>
+        In this edition we enhanced the section on privacy by design, compliance, and added a section on threat modeling medical
+        devices. All participants get our Threat Modeling Playbook plus one year access to our online threat modeling learning platform. As part of this training, you will be asked to create your own threat model, on which you will get individual feedback. One month after the training we organize an online review session with all the participants.
+        <br>
+        As highly skilled professionals with years of experience under our belts, we’re intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.
+        <br>
+        Using this methodology for the hands-on workshops we provide our students with a challenging training experience and the templates to incorporate threat modeling best practices in their daily work. Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following:
+        <ul>
+        <li>Diagramming web and mobile applications, sharing the same REST
+        backend</li>
+        <li>Threat modeling an IoT gateway with a cloud-based update service</li>
+        <li>Get into the defender's head - modeling points of attack against a
+        nuclear facility</li>
+        <li>Threat mitigations of OAuth scenarios for an HR application</li>
+        <li>Privacy analysis of a new face recognition system in an airport</li>
+        </ul>
+
+        After each hands-on workshop, the results are discussed, and
+        students receive a documented solution. Based on our successful
+        trainings in the last years and the great and positive feedback, we
+        release this updated threat modeling training at Global AppSec San
+        Francisco 2022.
+        <br>
+        <strong>Course Outline</strong>
+        <ul>
+        <li>Threat modeling introduction</li>
+        <li>Diagrams – what are you building?</li>
+        <li>Identifying threats – what can go wrong?</li>
+        <li>Addressing each threat</li>
+        <li>Threat modeling and compliance</li>
+        <li>Penetration testing based on offensive threat models</li>
+        <li>Advanced threat modeling</li>
+        <li>Threat modeling resources</li>
+        <li>Examination</li>
+        <li>Review session (online session after 1 month)</li>
+        </ul>

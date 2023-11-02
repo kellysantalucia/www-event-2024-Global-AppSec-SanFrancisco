@@ -1,0 +1,35 @@
+- title: HOME
+  url: /
+- title: PROGRAM
+  items:
+    - title: Schedule
+      url : /schedule/
+    #- title: Keynotes
+      #url : /
+    - title: Training
+      url : /trainings/
+    - title: Event Images
+      url : /media/
+   #- title: Training
+   #  url: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+    #- title: Call for Papers - CLOSED
+      #url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
+- title: EXHIBIT
+  items:
+    - title: Exhibitor Prospect
+      url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+    - title: Exhibitors & Sponsors
+      url: /sponsors
+    - title: Exhibitor Kit
+      url: /exhibitordetails/
+- title: ABOUT
+  #url: /about/
+  items:
+    - title: Volunteer
+      url: /volunteer/
+    - title: OWASP Merchandise
+      url: https://owasp.org/store
+    - title: Hotel Booking 
+      url: https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1
+    - title: Event Code of Conduct
+      url: /event/codeofconduct/

@@ -2,30 +2,34 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
-      url : /schedule/
-    - title: Training
-      url : /trainings/
-    - title: Event Images
-      url : /media/
-    #- title: Call for Papers - CLOSED
-      #url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
-- title: EXHIBIT
-  items:
-    - title: Exhibitor Prospect
-      url: 
-    - title: Exhibitors & Sponsors
-      url: /sponsors
-    - title: Exhibitor Kit
-      url: /exhibitordetails/
+  #  - title: Schedule
+  #    url : /schedule/
+  #  - title: Training
+  #    url : /trainings/
+  #  - title: Event Images
+  #    url : /media/
+    - title: Call for Papers - OPENS MAY 20
+      url: /
+    - title: Call for Trainers - OPENS MARCH 20
+      url: /
+- title: EXHIBIT & SPONSORSHIP - COMING SOON!
+  # items:
+  #  - title: Exhibitor Prospect
+  #    url: 
+  #  - title: Exhibitors & Sponsors
+  #    url: /sponsors
+  #  - title: Exhibitor Kit
+  #    url: /exhibitordetails/
 - title: ABOUT
-  #url: /about/
+  url: /about/
   items:
-    - title: Volunteer
-      url: /volunteer/
+   # - title: Volunteer
+   #   url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-    - title: Hotel Booking 
-      url: 
+    - title: Venue
+      url: https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco/sfors
+   # - title: Hotel Booking 
+   #   url: 
     - title: Event Code of Conduct
       url: /event/codeofconduct/
